@@ -30,10 +30,10 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '12.0'
   s.source_files = 'Traceable/Classes/**/*'
-  s.swift_versions = '5.0'
   s.platforms = {
     "ios": "12.0"
   }
+  swift_versions = '5.0'
 
   
   # s.resource_bundles = {
