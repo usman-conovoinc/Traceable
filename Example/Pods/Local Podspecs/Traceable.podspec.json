@@ -1,0 +1,22 @@
+{
+  "name": "Traceable",
+  "version": "0.1.0",
+  "summary": "A short description of Traceable.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/shahrukh47/Traceable",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shahrukh47": "usman.saeed@conovoinc.com"
+  },
+  "source": {
+    "git": "https://github.com/shahrukh47/Traceable.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Traceable/Classes/**/*"
+}

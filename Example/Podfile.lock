@@ -1,0 +1,16 @@
+PODS:
+  - Traceable (0.1.0)
+
+DEPENDENCIES:
+  - Traceable (from `../`)
+
+EXTERNAL SOURCES:
+  Traceable:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Traceable: 5ae494789a519359406fb3e56713d524922acb06
+
+PODFILE CHECKSUM: f4bf209f4c77de748ad5cae111902952f0467197
+
+COCOAPODS: 1.13.0
