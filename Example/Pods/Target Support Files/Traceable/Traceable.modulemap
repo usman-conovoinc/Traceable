@@ -1,0 +1,6 @@
+framework module Traceable {
+  umbrella header "Traceable-umbrella.h"
+
+  export *
+  module * { export * }
+}

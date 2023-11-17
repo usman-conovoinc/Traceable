@@ -1,0 +1,6 @@
+framework module Pods_Traceable_Example {
+  umbrella header "Pods-Traceable_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

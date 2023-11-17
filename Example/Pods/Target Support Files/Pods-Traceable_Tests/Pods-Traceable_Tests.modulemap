@@ -1,0 +1,6 @@
+framework module Pods_Traceable_Tests {
+  umbrella header "Pods-Traceable_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
