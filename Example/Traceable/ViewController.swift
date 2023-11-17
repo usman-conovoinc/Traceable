@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Traceable
 //
-//  Created by shahrukh47 on 11/17/2023.
-//  Copyright (c) 2023 shahrukh47. All rights reserved.
+//  Created by Usman on 11/17/2023.
+//  Copyright (c) 2023 Usman. All rights reserved.
 //
 
 import UIKit
