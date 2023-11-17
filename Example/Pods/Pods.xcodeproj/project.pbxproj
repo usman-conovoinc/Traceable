@@ -37,8 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		015DBF71F2D3423228DE7AD85A1C49BA /* Traceable */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Traceable; path = Traceable.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		175C62F3B12DA3F06056943E2F37B0FC /* Pods-Traceable_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-Traceable_Example"; path = Pods_Traceable_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		015DBF71F2D3423228DE7AD85A1C49BA /* Traceable.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Traceable.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		175C62F3B12DA3F06056943E2F37B0FC /* Pods_Traceable_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Traceable_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A24543337DB61353D48BB1B0BFD7CEE /* Pods-Traceable_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Traceable_Tests-dummy.m"; sourceTree = "<group>"; };
 		2D7EE19D29BB7A1948A431C3BDBFBBCF /* Pods-Traceable_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Traceable_Example-Info.plist"; sourceTree = "<group>"; };
 		377262CF8DAC7A21C6C9A9851FAD0D92 /* Pods-Traceable_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Traceable_Example.release.xcconfig"; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		4B6AA8741259934D55670AAAD70BC923 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		520804D5F488AF859EC5DA5F30035608 /* Pods-Traceable_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Traceable_Tests-umbrella.h"; sourceTree = "<group>"; };
 		5C79D0AD5232968021C66B45BA393C25 /* Pods-Traceable_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Traceable_Example-dummy.m"; sourceTree = "<group>"; };
-		68AD9AC2D0C81A0E8E3F48D8288BB858 /* Traceable.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = Traceable.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		68AD9AC2D0C81A0E8E3F48D8288BB858 /* Traceable.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = Traceable.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		70DBBBAD7FDA0DEDA436D5BF0BCEACFB /* Pods-Traceable_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Traceable_Example-umbrella.h"; sourceTree = "<group>"; };
 		7180A2D1FFECB7BC367172E748F58102 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
@@ -56,7 +56,7 @@
 		9B87D1D05CA73DDDFFC3C1725001AE71 /* Traceable.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Traceable.release.xcconfig; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A5236AE575A2D4A9B7C160F6B9AED9E9 /* Pods-Traceable_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Traceable_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		A93FCEE3D7A6B5CD6B005C17ABDB62F0 /* Pods-Traceable_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-Traceable_Tests"; path = Pods_Traceable_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A93FCEE3D7A6B5CD6B005C17ABDB62F0 /* Pods_Traceable_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Traceable_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		AAADC94D0B8EB90B1680B359844FF208 /* Pods-Traceable_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Traceable_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		AD1772BA59BF8D1069053DC5805649C4 /* Pods-Traceable_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Traceable_Tests.modulemap"; sourceTree = "<group>"; };
 		AE15E7480370C44AB638EC769E4787AE /* Pods-Traceable_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Traceable_Tests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -216,9 +216,9 @@
 		DD17B0D63F7AA507BF71539E75ACF1C9 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				175C62F3B12DA3F06056943E2F37B0FC /* Pods-Traceable_Example */,
-				A93FCEE3D7A6B5CD6B005C17ABDB62F0 /* Pods-Traceable_Tests */,
-				015DBF71F2D3423228DE7AD85A1C49BA /* Traceable */,
+				175C62F3B12DA3F06056943E2F37B0FC /* Pods_Traceable_Example.framework */,
+				A93FCEE3D7A6B5CD6B005C17ABDB62F0 /* Pods_Traceable_Tests.framework */,
+				015DBF71F2D3423228DE7AD85A1C49BA /* Traceable.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -269,7 +269,7 @@
 			);
 			name = "Pods-Traceable_Tests";
 			productName = Pods_Traceable_Tests;
-			productReference = A93FCEE3D7A6B5CD6B005C17ABDB62F0 /* Pods-Traceable_Tests */;
+			productReference = A93FCEE3D7A6B5CD6B005C17ABDB62F0 /* Pods_Traceable_Tests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		6AB874A18F6A7934DF9B01BE0502B841 /* Traceable */ = {
@@ -287,7 +287,7 @@
 			);
 			name = Traceable;
 			productName = Traceable;
-			productReference = 015DBF71F2D3423228DE7AD85A1C49BA /* Traceable */;
+			productReference = 015DBF71F2D3423228DE7AD85A1C49BA /* Traceable.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		6D04F8FB2DCCEC2F6CD7B65B43E3F951 /* Pods-Traceable_Example */ = {
@@ -306,7 +306,7 @@
 			);
 			name = "Pods-Traceable_Example";
 			productName = Pods_Traceable_Example;
-			productReference = 175C62F3B12DA3F06056943E2F37B0FC /* Pods-Traceable_Example */;
+			productReference = 175C62F3B12DA3F06056943E2F37B0FC /* Pods_Traceable_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -422,7 +422,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-Traceable_Example/Pods-Traceable_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-Traceable_Example/Pods-Traceable_Example.modulemap";
@@ -490,7 +490,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -517,7 +517,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-Traceable_Tests/Pods-Traceable_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-Traceable_Tests/Pods-Traceable_Tests.modulemap";
@@ -550,7 +550,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-Traceable_Example/Pods-Traceable_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-Traceable_Example/Pods-Traceable_Example.modulemap";
@@ -583,7 +583,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/Traceable/Traceable-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/Traceable/Traceable-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/Traceable/Traceable.modulemap";
 				PRODUCT_MODULE_NAME = Traceable;
@@ -615,7 +615,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/Traceable/Traceable-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/Traceable/Traceable-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/Traceable/Traceable.modulemap";
 				PRODUCT_MODULE_NAME = Traceable;
@@ -683,7 +683,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -712,7 +712,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-Traceable_Tests/Pods-Traceable_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-Traceable_Tests/Pods-Traceable_Tests.modulemap";
